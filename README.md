@@ -31,5 +31,5 @@ This repository contains the complete analysis from data cleaning to model evalu
 4. Run all cells in order. The notebook handles data loading, cleaning, visualization, and model training.
 
 ## 4. References
-Dataset sourced from the **Polytechnic Institute of Portalegre**.
-Kaggle page https://www.kaggle.com/datasets/marouandaghmoumi/dropout-and-success-student-data-analysis/data
+1. Dataset sourced from the **Polytechnic Institute of Portalegre**.
+2. Kaggle page [Kaggle](https://www.kaggle.com/datasets/marouandaghmoumi/dropout-and-success-student-data-analysis/data)
