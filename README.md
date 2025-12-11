@@ -21,4 +21,15 @@ This repository contains the complete analysis from data cleaning to model evalu
 ```text
 ├── data.csv              # The dataset (Sourced from Polytechnic Institute of Portalegre)
 ├── projekt_v5.ipynb      # Main Jupyter Notebook containing all code, viz, and models
-└── README.md             # Project documentation (this file)
+└── README.md             # Project documentation (this file) text
+```
+
+## 3. How to Replicate
+1. Install Python 3.9+ and Jupyter Notebook.
+2. Install required packages: pip install "pandas numpy matplotlib seaborn scikit-learn joblib"
+3. Open the projekt_v5.ipynb file in jupyter notebook
+4. Run all cells in order. The notebook handles data loading, cleaning, visualization, and model training.
+
+## 4. References
+Dataset sourced from the **Polytechnic Institute of Portalegre**.
+Kaggle page https://www.kaggle.com/datasets/marouandaghmoumi/dropout-and-success-student-data-analysis/data
